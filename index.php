@@ -1268,7 +1268,7 @@
                     <h4 class="d-none">hidden</h4>
                     <h5 class="d-none">hidden</h5>
                     <p class="color_lightblack">
-                      Thank you for your interest in hiring Denver Cleaning
+                      Thank you for your interest in hiring Go-Travels
                       Service Company. We consider communication with the
                       customer.
                     </p>
@@ -1506,7 +1506,7 @@
               <div class="col-lg-6 col-12">
                 <div class="home_contact_right">
                   <div class="contact_form form">
-                    <form action="#">
+                    <form action="send.php" method="POST">
                       <div class="row contact_form_inner">
                         <div class="col-sm-6">
                           <input
@@ -1514,6 +1514,7 @@
                             placeholder="First Name*"
                             class="w-100 fw_500 line_height_24 color_lightblack"
                             required
+                            name="firstName"
                           />
                         </div>
                         <div class="col-sm-6">
@@ -1522,6 +1523,7 @@
                             placeholder="Last Name*"
                             class="w-100 fw_500 line_height_24 color_lightblack"
                             required
+                            name="lastName"
                           />
                         </div>
                         <div class="col-sm-6">
@@ -1530,6 +1532,7 @@
                             placeholder="Email Address*"
                             class="w-100 fw_500 line_height_24 color_lightblack"
                             required
+                            name="email"
                           />
                         </div>
                         <div class="col-sm-6">
@@ -1538,6 +1541,7 @@
                             placeholder="Phone Number*"
                             class="w-100 fw_500 line_height_24 color_lightblack"
                             required
+                            name="phone_number"
                           />
                         </div>
                         <div class="col-sm-6">
@@ -1546,6 +1550,7 @@
                             placeholder="Nearest Airport*"
                             class="w-100 fw_500 line_height_24 color_lightblack"
                             required
+                            name="airport"
                           />
                         </div>
                         <div class="col-sm-6">
@@ -1554,6 +1559,7 @@
                             placeholder="Exp. Departure Date*"
                             class="w-100 fw_500 line_height_24 color_lightblack"
                             required
+                            name="departureDate"
                           />
                         </div>
                         <div class="col-12">
