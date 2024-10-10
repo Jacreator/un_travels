@@ -640,7 +640,8 @@
                   <div class="client_testimonials_box">
                     <div class="client_testimonials_info">
                       <p class="line_height_30 color_lightblack">
-                        “Excellent"
+                        “Excellent!!! i liked every point of service 
+                        i got and i will use them again without a doubt."
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
@@ -724,101 +725,13 @@
                     </div>
                   </div>
                 </div>
+                
                 <div class="client_testimonials_item">
                   <div class="client_testimonials_box">
                     <div class="client_testimonials_info">
                       <p class="line_height_30 color_lightblack">
-                        “Goclean is one among the top themes I have ever used.
-                        Would recommend this anytime to my pals.”
-                      </p>
-                    </div>
-                    <div class="client_testimonials_img_area">
-                      <div class="client_testimonials_img">
-                        <img
-                          src="assets/images/dummy-img/slider_2.png"
-                          alt="client_testimonials_img"
-                        />
-                      </div>
-                      <div class="client_testimonials_detail">
-                        <h6 class="sansita_fontfamily color_darkblue">
-                          Jordon Smith
-                        </h6>
-                        <p class="line_height_20 fw_500 color_lightblack">
-                          Agent Manager
-                        </p>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          width="116"
-                          height="20"
-                          viewBox="0 0 116 20"
-                          fill="none"
-                        >
-                          <mask
-                            style="mask-type: alpha"
-                            maskUnits="userSpaceOnUse"
-                            x="0"
-                            y="0"
-                            width="20"
-                            height="20"
-                          >
-                            <path d="M0 0H20V20H0V0Z" fill="white" />
-                          </mask>
-                          
-                          <mask
-                            style="mask-type: alpha"
-                            maskUnits="userSpaceOnUse"
-                            x="24"
-                            y="0"
-                            width="20"
-                            height="20"
-                          >
-                            <path d="M24 0H44V20H24V0Z" fill="white" />
-                          </mask>
-                          
-                          <mask
-                            style="mask-type: alpha"
-                            maskUnits="userSpaceOnUse"
-                            x="48"
-                            y="0"
-                            width="20"
-                            height="20"
-                          >
-                            <path d="M48 0H68V20H48V0Z" fill="white" />
-                          </mask>
-                          
-                          <mask
-                            style="mask-type: alpha"
-                            maskUnits="userSpaceOnUse"
-                            x="72"
-                            y="0"
-                            width="20"
-                            height="20"
-                          >
-                            <path d="M72 0H92V20H72V0Z" fill="white" />
-                          </mask>
-                          
-                          <mask
-                            style="mask-type: alpha"
-                            maskUnits="userSpaceOnUse"
-                            x="96"
-                            y="0"
-                            width="20"
-                            height="20"
-                          >
-                            <path d="M96 0H116V20H96V0Z" fill="white" />
-                          </mask>
-                          
-                        </svg>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="client_testimonials_item">
-                  <div class="client_testimonials_box">
-                    <div class="client_testimonials_info">
-                      <p class="line_height_30 color_lightblack">
-                        “Excellent services, a design very clean, fast and easy
-                        to customize and the customer support very
+                        “Excellent services, a travel very affordable, fast and easy
+                        to handle and the staff support very
                         professional.”
                       </p>
                     </div>
@@ -907,8 +820,8 @@
                   <div class="client_testimonials_box">
                     <div class="client_testimonials_info">
                       <p class="line_height_30 color_lightblack">
-                        “Theme is fully customizable, and customer support is
-                        excellent. Its most advanced theme i use ever.”
+                        “Our package is fully customizable, and customer support is
+                        excellent. Its most advanced service you can use ever.”
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
@@ -996,7 +909,7 @@
                   <div class="client_testimonials_box">
                     <div class="client_testimonials_info">
                       <p class="line_height_30 color_lightblack">
-                        “Goclean is one among the top themes I have ever used.
+                        “Go-Travels is one among the top travel buddy I have ever used.
                         Would recommend this anytime to my pals.”
                       </p>
                     </div>
