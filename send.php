@@ -7,10 +7,10 @@ function send_mail($to, $subject, $message)
 
     // SMTP configuration (replace with your SMTP provider details)
     $mail->isSMTP();
-    $mail->Host = 'lon106.truehost.cloud';
+    $mail->Host = 'rbx116.truehost.cloud';
     $mail->SMTPAuth = true;
-    $mail->Username = 'info@unitedstatespentagons.com';
-    $mail->Password = 'pXmHuQ}uEX5#';
+    $mail->Username = 'info@un-travels.com';
+    $mail->Password = '&hcO7eDwij&.';
     $mail->SMTPSecure = 'tls'; // Or 'ssl'
     $mail->Port = 587; // Or 465 for SSL
 
@@ -44,6 +44,7 @@ if (isset($_POST['submit'])) {
 
 
     $to = 'pentagonunitedstate0@gmail.com'; // Replace with your recipient email
+
     $subject = 'Form Submission';
     $message = "
     <h2>New Form Submission</h2>
