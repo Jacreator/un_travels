@@ -556,19 +556,12 @@
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
-                      <div class="client_testimonials_img">
-                        <img
-                          src="assets/images/dummy-img/slider_2.png"
-                          alt="client_testimonials_img"
-                        />
-                      </div>
+                      
                       <div class="client_testimonials_detail">
                         <h6 class="sansita_fontfamily color_darkblue">
                           James Smith
                         </h6>
-                        <p class="line_height_20 fw_500 color_lightblack">
-                          Software Engineer
-                        </p>
+                        
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width="116"
@@ -645,19 +638,12 @@
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
-                      <div class="client_testimonials_img">
-                        <img
-                          src="assets/images/dummy-img/slider_2.png"
-                          alt="client_testimonials_img"
-                        />
-                      </div>
+                      
                       <div class="client_testimonials_detail">
                         <h6 class="sansita_fontfamily color_darkblue">
                           Rocky Khan
                         </h6>
-                        <p class="line_height_20 fw_500 color_lightblack">
-                          Founder of Rocktech
-                        </p>
+                        
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width="116"
@@ -736,19 +722,12 @@
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
-                      <div class="client_testimonials_img">
-                        <img
-                          src="assets/images/dummy-img/slider_2.png"
-                          alt="client_testimonials_img"
-                        />
-                      </div>
+                      
                       <div class="client_testimonials_detail">
                         <h6 class="sansita_fontfamily color_darkblue">
                           Tima Smith
                         </h6>
-                        <p class="line_height_20 fw_500 color_lightblack">
-                          Founder of Ref Group
-                        </p>
+                        
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width="116"
@@ -825,19 +804,12 @@
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
-                      <div class="client_testimonials_img">
-                        <img
-                          src="assets/images/dummy-img/slider_2.png"
-                          alt="client_testimonials_img"
-                        />
-                      </div>
+                      
                       <div class="client_testimonials_detail">
                         <h6 class="sansita_fontfamily color_darkblue">
                           Rocky Khan
                         </h6>
-                        <p class="line_height_20 fw_500 color_lightblack">
-                          Founder of Rocktech
-                        </p>
+                        
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width="116"
@@ -914,19 +886,12 @@
                       </p>
                     </div>
                     <div class="client_testimonials_img_area">
-                      <div class="client_testimonials_img">
-                        <img
-                          src="assets/images/dummy-img/slider_2.png"
-                          alt="client_testimonials_img"
-                        />
-                      </div>
+                      
                       <div class="client_testimonials_detail">
                         <h6 class="sansita_fontfamily color_darkblue">
                           Jordon Smith
                         </h6>
-                        <p class="line_height_20 fw_500 color_lightblack">
-                          Agent Manager
-                        </p>
+                        
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           width="116"
@@ -1078,7 +1043,7 @@
                     </div>
                     <div class="col-sm-6 col-12">
                       <div class="home_contact_box">
-                        <a href="mailto:info@xyz.com">
+                        <a href="mailto:info@un-travels.com">
                           <div class="home_contact_icon">
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
@@ -1124,7 +1089,7 @@
                             <h6
                               class="color_lightblack fw_500 line_height_normal"
                             >
-                              info@xyz.com
+                              info@un-travels.com
                             </h6>
                           </div>
                         </a>
@@ -1329,6 +1294,7 @@
                             <button
                               type="submit"
                               class="yellow_btn w-100 justify-content-center border-0"
+                              name="submit"
                             >
                               Send Us
                             </button>
