@@ -36,11 +36,12 @@ if (isset($_POST['submit'])) {
     $firstName = $_POST['firstName'];
     $lastName = $_POST['lastName'];
     $email = $_POST['email'];
-    $reason = $_POST['reasonForApplication'];
+    $reason = $_POST['message'];
     $airport = $_POST['airport'];
 
 
-    $to = 'pentagonunitedstate0@gmail.com';
+
+    $to = 'Unitedstatepentagon927@gmail.com';
 
     $subject = 'Form Submission';
     $message = "
